@@ -1,3 +1,4 @@
+#1: Python SQLite что такое СУБД и реляционные БД
 
 Взаимодействие осуществляется Через
 Программа <-> API (Application Programming Interface) <-> СУБД <-> БД

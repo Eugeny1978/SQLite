@@ -1,3 +1,5 @@
+#3: Python SQLite команды SELECT и INSERT при работе с таблицами БД
+
 # ПРИМЕРЫ: СМ ФАЙЛ с базой Данных, вкладка SQL
 
 # INSERT - добавление в таблицу
@@ -5,7 +7,9 @@
 
 # # Запись в поля
 # INSERT INTO <table_name> (<column_name1>, <column_name2>, ...) VALUES (<value1>, <value1>, ...)
-#
+
+
+
 # # Запись в поля по порядку
 # INSERT INTO <table_name> VALUES (<value1>, <value1>, ...)
 

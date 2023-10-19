@@ -1,3 +1,5 @@
+#3: Python SQLite команды SELECT и INSERT при работе с таблицами БД
+
 import sqlite3 as sq
 
 with sq.connect("saper.db") as connect_db:
