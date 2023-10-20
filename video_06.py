@@ -14,3 +14,4 @@
 # LEFT JOIN users ON games.user_id == users.rowid
 # GROUP BY games.user_id
 # ORDER BY sum_scores DESC
+
